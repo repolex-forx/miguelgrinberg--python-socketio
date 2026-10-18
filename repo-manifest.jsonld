@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/miguelgrinberg/python-socketio/commit/5b49d7ca33e5eedecf94e35301a847ae0d2bd52b",
       "git:hexsha": "5b49d7ca33e5eedecf94e35301a847ae0d2bd52b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v5.17.0"
     },
     {
